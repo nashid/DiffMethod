@@ -1,0 +1,7 @@
+Commit SHA,File Name,Old Function Signature,New Function Signature
+ab7d7f35bb246475f24491a22aef6f9f2fc5bcd3,PairSpliterator.java,"boolean push(T payload, BiConsumer<T, T> fn)","boolean push(T payload, BiConsumer<T, T> fn, boolean isLeft)"
+5accf17ac93e151b0e2a34286a13d39618469503,MoreCollectors.java,"public static Collector<CharSequence, ?, String> joining(CharSequence delimiter, CharSequence ellipsis, int limit)","public static Collector<CharSequence, ?, String> joining(CharSequence delimiter, CharSequence ellipsis, int limit, boolean partial)"
+3da4a4e37e457cba683307a8b959f2399eded9a0,Limiter.java,private void drain(),"private void drain(T[] series, int limit)"
+3da4a4e37e457cba683307a8b959f2399eded9a0,Limiter.java,private boolean putPQ(T t),"private boolean putPQ(T t, int limit)"
+e9de7cb07db7381d4d2da49a49f6b810bd0df668,LimiterTest.java,"public static void exerciseLimiter(String msg, Collection<T> input, int limit, Comparator<T> comp)","public static void exerciseLimiter(String msg, List<T> expected, Collection<T> input, int limit, Comparator<T> comp)"
+1b933f0627462552fb60061b2217a380276477f0,Joining.java,private int length(CharSequence s),"private int length(CharSequence s, boolean content)"
