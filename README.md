@@ -46,22 +46,22 @@ I have tested this tool with 4 repositories:
 
 * URL: <https://github.com/EhsanMashhadi/test>
     
-* Result: <https://github.com/EhsanMashhadi/DiffMethod/result/test.csv>
+* Result: <https://github.com/EhsanMashhadi/DiffMethod/blob/master/result/test.csv>
     
 2. **Gson**
 
 * URL: <https://github.com/google/gson>
     
-* Result: <https://github.com/EhsanMashhadi/DiffMethod/result/gson.csv>
+* Result: <https://github.com/EhsanMashhadi/DiffMethod/blob/master/result/gson.csv>
 
 3. **Retrofit**
 
 * URL: <https://github.com/square/retrofit>
     
-* Result: <https://github.com/EhsanMashhadi/DiffMethod/result/retrofit.csv>
+* Result: <https://github.com/EhsanMashhadi/DiffMethod/blob/master/result/retrofit.csv>
     
 4. **Streamex**
 
 * URL: <https://github.com/amaembo/streamex>
     
-* Result: <https://github.com/EhsanMashhadi/DiffMethod/result/streamex.csv>
+* Result: <https://github.com/EhsanMashhadi/DiffMethod/blob/master/result/streamex.csv>
