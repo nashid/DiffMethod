@@ -8,13 +8,7 @@ I used RepoDriller and JavaParser libraries to implement this tool.
 
 1. **Clone the repository**
 
- Add it in your project level build.gradle:
-```git
-    git clone https://github.com/EhsanMashhadi/DiffMethod.git
-```
-
 2. **Navigate to the project root directory**
-
 
 3. **Build a jar file**
 
@@ -35,6 +29,8 @@ I used RepoDriller and JavaParser libraries to implement this tool.
 ```
 java -jar CodingTask-all-1.0.0.jar
 ```
+
+**Note: Results will be produced next to the jar file**
 
 ## Want an easier way?
 
