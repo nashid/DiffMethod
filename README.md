@@ -30,11 +30,13 @@ I used RepoDriller and JavaParser libraries to implement this tool.
 java -jar CodingTask-all-1.0.0.jar
 ```
 
-**Note: Results will be produced next to the jar file**
+**Note: Results will be produced next to the jar file.**
+
+**Warning: You should use a different folder for the cloning process in each run.**
 
 ## Want an easier way?
 
-Download the jar file from the release tab and use it
+Download the jar file from the release tab and use it.
 
 ## Result
 
